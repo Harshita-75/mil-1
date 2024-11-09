@@ -1,0 +1,45 @@
+[
+
+  {
+    "type": "accident",
+    "description": "collision",
+    "severity": 9,
+    "timestamp": "2024-11-05T17:23:49.914Z",
+    "fineAmount": 1500
+  },
+  {
+    "type": "skipping ",
+    "description": "red light",
+    "severity": 5,
+    "timestamp": "2024-11-05T17:23:49.915Z",
+    "fineAmount": 1000
+  },
+  {
+    "type": "parr",
+    "description": " no-parking zone",
+    "severity": 1,
+    "timestamp": "2024-11-05T17:23:49.915Z",
+    "fineAmount": 200
+  },
+  {
+    "type": "akshi",
+    "description": "collision",
+    "severity": 9,
+    "timestamp": "2024-11-05T17:25:50.865Z",
+    "fineAmount": 1500
+  },
+  {
+    "type": "Signal Jump",
+    "description": "red light",
+    "severity": 3,
+    "timestamp": "2024-11-05T17:25:50.865Z",
+    "fineAmount": 500
+  },
+  {
+    "type": "parking zone",
+    "description": " no-parking zone",
+    "severity": 1,
+    "timestamp": "2024-11-05T17:25:50.865Z",
+    "fineAmount": 200
+  }
+]
